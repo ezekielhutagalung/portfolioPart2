@@ -1,0 +1,25 @@
+{
+  "name": "portfolioPart2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "node-sass": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekielhutagalung/portfolioPart2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezekielhutagalung/portfolioPart2/issues"
+  },
+  "homepage": "https://github.com/ezekielhutagalung/portfolioPart2#readme"
+}
